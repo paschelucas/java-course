@@ -15,13 +15,6 @@ public class Account {
         this.withdrawLimit = withdrawLimit;
     }
 
-    public int getNumber() {
-        return number;
-    }
-
-    public String getHolder() {
-        return holder;
-    }
 
     public double getInitialBalance() {
         return initialBalance;
